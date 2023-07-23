@@ -19,6 +19,9 @@ int main(void) {
 	printf("enter the value of b : \n");
 	fflush(stdout);
 	scanf("%f",&b);
-	printf("after swapping value of a is : %f \nvalue of b is : %f",b,a);
+	a = a*b;
+	b =a/b;
+	a = a/b;
+	printf("after swapping value of a is : %f \nvalue of b is : %f",a,b);
 	return EXIT_SUCCESS;
 }
