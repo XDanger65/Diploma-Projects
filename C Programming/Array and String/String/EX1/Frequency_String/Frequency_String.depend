@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1690117146 source:e:\courses\embedded system diploma\unit 2\assignments\diploma-projects\c programming\array and string\string\ex1\frequency_string\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

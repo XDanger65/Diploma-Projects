@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1690118223 source:e:\courses\embedded system diploma\unit 2\assignments\diploma-projects\c programming\array and string\string\ex3\reverse_string\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
