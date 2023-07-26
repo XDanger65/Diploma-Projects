@@ -1,0 +1,6 @@
+﻿  Source.c
+E:\Courses\Embedded System Diploma\unit 2\assignments\Diploma-Projects\C Programming\Functions\EX3\reverse_stat\reverse_stat\Source.c(6,10): warning C4473: 'scanf_s' : not enough arguments passed for format string
+E:\Courses\Embedded System Diploma\unit 2\assignments\Diploma-Projects\C Programming\Functions\EX3\reverse_stat\reverse_stat\Source.c(6,10): message : placeholders and their parameters expect 2 variadic arguments, but 1 were provided
+E:\Courses\Embedded System Diploma\unit 2\assignments\Diploma-Projects\C Programming\Functions\EX3\reverse_stat\reverse_stat\Source.c(6,10): message : the missing variadic argument 2 is required by format string '%c'
+E:\Courses\Embedded System Diploma\unit 2\assignments\Diploma-Projects\C Programming\Functions\EX3\reverse_stat\reverse_stat\Source.c(6,10): message : this argument is used as a buffer size
+  reverse_stat.vcxproj -> E:\Courses\Embedded System Diploma\unit 2\assignments\Diploma-Projects\C Programming\Functions\EX3\reverse_stat\Debug\reverse_stat.exe
