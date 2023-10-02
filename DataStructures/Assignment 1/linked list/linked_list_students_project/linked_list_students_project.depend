@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1695307613 source:e:\courses\embedded system diploma\unit 4\assignment\datastructures\assignment 1\linked list\linked_list_students_project\main.c
+	"linked_list.h"
+
+1695304249 e:\courses\embedded system diploma\unit 4\assignment\datastructures\assignment 1\linked list\linked_list_students_project\linked_list.h
+	"stdio.h"
+	"stdlib.h"
+	"string.h"
+	"conio.h"
+
+1695307645 source:e:\courses\embedded system diploma\unit 4\assignment\datastructures\assignment 1\linked list\linked_list_students_project\linked_list.c
+	"linked_list.h"
+

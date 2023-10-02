@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1695038239 source:e:\courses\embedded system diploma\unit 4\assignment\datastructures\assignment 1\fifo\main.c
+	"fifo.h"
+
+1694959719 e:\courses\embedded system diploma\unit 4\assignment\datastructures\assignment 1\fifo\fifo.h
+	"stdlib.h"
+	"stdint.h"
+	"stdio.h"
+
+1695046117 source:e:\courses\embedded system diploma\unit 4\assignment\datastructures\assignment 1\fifo\fifo.c
+	"fifo.h"
+

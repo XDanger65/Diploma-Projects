@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1694652596 source:c:\users\eslam\onedrive\desktop\assignment 1\lifo_buff\lifo_buff.c
+	"LIFO_buff.h"
+	"stdio.h"
+
+1694691466 c:\users\eslam\onedrive\desktop\assignment 1\lifo_buff\lifo_buff.h
+	"stdlib.h"
+	"stdint.h"
+
+1694691458 source:c:\users\eslam\onedrive\desktop\assignment 1\lifo_buff\main.c
+	"LIFO_buff.h"
+
